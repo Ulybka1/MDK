@@ -1,8 +1,10 @@
-﻿var a,b,c:integer;
+﻿var a,b,c,q,s:integer;
 begin
 readln(a);
 readln(b);
 c:=a+b;
-writeln(c);
-writeln(b);
+q:=a*b;
+writeln(q);
+s:=(q-c)
+
 end.

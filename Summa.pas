@@ -4,4 +4,5 @@ readln(a);
 readln(b);
 c:=a+b;
 writeln(c);
+writeln(b);
 end.
